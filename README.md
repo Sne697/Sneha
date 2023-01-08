@@ -1,4 +1,3 @@
-![logo](https://github.com/RahulChakraborty4570/RahulChakraborty4570/blob/main/RAHUL%20CHAKTRABORTY.png)
 <h1 align="center">Hi 👋, I'm Rahul Chakraborty</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 

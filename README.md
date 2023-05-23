@@ -63,6 +63,7 @@
 <p align="left">
 <a href="https://angular.io/" target="_blank" rel="noreferrer"> <img src="https://spng.pngfind.com/pngs/s/275-2755437_angular-favicon-png-transparent-png.png" alt="Angular" width="40" height="40"/> </a>
 </p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulchakraborty4570&show_icons=true&locale=en&layout=compact" alt="rahulchakraborty4570" /></p>
 
 <h3 align="left">Github Summary:</h3>
